@@ -1,0 +1,14 @@
+C:\Users\nasty\source\repos\Racc\Racc\bin\Debug\Racc.exe.config
+C:\Users\nasty\source\repos\Racc\Racc\bin\Debug\Racc.exe
+C:\Users\nasty\source\repos\Racc\Racc\bin\Debug\Racc.pdb
+C:\Users\nasty\source\repos\Racc\Racc\obj\Debug\Racc.csproj.AssemblyReference.cache
+C:\Users\nasty\source\repos\Racc\Racc\obj\Debug\Racc.Properties.Resources.resources
+C:\Users\nasty\source\repos\Racc\Racc\obj\Debug\Racc.csproj.GenerateResource.cache
+C:\Users\nasty\source\repos\Racc\Racc\obj\Debug\Racc.csproj.CoreCompileInputs.cache
+C:\Users\nasty\source\repos\Racc\Racc\obj\Debug\Racc.exe
+C:\Users\nasty\source\repos\Racc\Racc\obj\Debug\Racc.pdb
+C:\Users\nasty\source\repos\Racc\Racc\obj\Debug\Racc.HelpScreen.resources
+C:\Users\nasty\source\repos\Racc\Racc\obj\Debug\Racc.Menu.resources
+C:\Users\nasty\source\repos\Racc\Racc\obj\Debug\Racc.GameScreen_lev1.resources
+C:\Users\nasty\source\repos\Racc\Racc\obj\Debug\Racc.win.resources
+C:\Users\nasty\source\repos\Racc\Racc\obj\Debug\Racc.lose.resources
